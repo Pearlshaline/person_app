@@ -85,7 +85,6 @@ export default function Home() {
         <h1 className="font-display text-4xl font-bold mb-2">
           All <span className="gradient-text">Persons</span>
         </h1>
-        <p className="text-sm text-muted-custom">Manage your person records with full CRUD operations.</p>
       </div>
 
       {/* Controls */}
