@@ -6,7 +6,7 @@ A full-stack Person Management application with complete CRUD operations, built 
 
 **Live Demo:** [https://personapp-gamma.vercel.app/](https://personapp-gamma.vercel.app/)  
 
-**Repository:** [github.com/Pearlshaline/person-app](https://github.com/Pearlshaline/person-app)
+**Repository:** [github.com/Pearlshaline/person_app](https://github.com/Pearlshaline/person_app.git)
 
 ---
 
@@ -49,7 +49,7 @@ A full-stack Person Management application with complete CRUD operations, built 
 
 ```bash
 # 1. Clone
-git clone https://github.com/Pearlshaline/person-app.git
+git clone https://github.com/Pearlshaline/person_app.git
 cd person-app
 
 # 2. Install
