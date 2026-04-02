@@ -35,6 +35,8 @@
     "typescript": "^5"
   },
   "scripts": {
-  "build": "prisma generate && prisma migrate deploy && next build"
+  "dev": "next dev",
+  "build": "prisma generate && prisma migrate deploy && next build",
+  "start": "next start"
 }
 }
